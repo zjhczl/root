@@ -3,5 +3,5 @@
 # <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
 api.github.com	0	1	1665710012	31536000
 raw.githubusercontent.com	0	0	1665710014	31536000
-github.com	0	1	1665710013	31536000
-codeload.github.com	0	0	1665678767	31536000
+github.com	0	1	1665977477	31536000
+codeload.github.com	0	0	1665924765	31536000
